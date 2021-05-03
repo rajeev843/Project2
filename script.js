@@ -3,3 +3,5 @@ x.setDate(x.getDate() + 26);
 
 console.log(x);
 alert("chandan");
+
+alert("i am second commit");
